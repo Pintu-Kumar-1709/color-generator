@@ -1,0 +1,15 @@
+body {
+    text-align: center; 
+}
+div {
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 25px 0 25px 0 ;
+}
+button {
+    color: wheat;
+    background-color: purple;
+    border-radius: 10px;
+}
